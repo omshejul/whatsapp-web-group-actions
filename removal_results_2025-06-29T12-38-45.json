@@ -1,0 +1,22 @@
+{
+  "groupName": "dummy",
+  "timestamp": "2025-06-29T12:38:45.308Z",
+  "totalToRemove": 2,
+  "successCount": 1,
+  "failCount": 1,
+  "results": [
+    {
+      "number": "+919960987750",
+      "status": "failed",
+      "error": "Evaluation failed: a"
+    },
+    {
+      "number": "+917775977750",
+      "status": "removed",
+      "notificationSent": true
+    }
+  ],
+  "notInGroup": [
+    "+916304896656"
+  ]
+}

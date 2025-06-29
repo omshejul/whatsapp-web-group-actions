@@ -1,0 +1,2306 @@
+{
+  "groupName": "Slots Update",
+  "timestamp": "2025-06-29T15:31:23.334Z",
+  "totalToProcess": 384,
+  "successCount": 2,
+  "inviteCount": 372,
+  "skipCount": 10,
+  "failCount": 0,
+  "results": [
+    {
+      "number": "+919429424060",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918792607638",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917276975747",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919746128795",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919834604926",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918686804860",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918296073110",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919845610233",
+      "status": "added",
+      "method": "direct"
+    },
+    {
+      "number": "+918800473958",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917652020699",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918121510339",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918277579376",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917559302524",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919056630369",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919769483261",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916363685850",
+      "status": "added",
+      "method": "direct"
+    },
+    {
+      "number": "+919699956564",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916383321784",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919019554059",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917981859124",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916397764663",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918828296990",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919945793184",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916281868602",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919962414628",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918505061244",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919810807527",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918109997451",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919742604301",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917506521068",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916353739341",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919370614140",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918885887499",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919079968606",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919869015844",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918688911667",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919910349631",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917848019800",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919059060758",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917995024025",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917993736981",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919108164819",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918308698163",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919347274188",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919566585444",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917718002896",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918106858881",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918891206376",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919824094560",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917904155477",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918885999336",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919691580383",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919730152527",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916300519087",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919980612622",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917893906013",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917829851238",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919886598185",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919512276063",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918178301352",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917305484384",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+17739305189",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917838205320",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918762725911",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917598648403",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919940440893",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918421266262",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919443824704",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919360346028",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917042788023",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917093606595",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919741782321",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917067920007",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919638070404",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918431626929",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+15025378572",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939116740",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918056198850",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917744007290",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919205050813",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917986392467",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919350423785",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919949664154",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918142661690",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919790070239",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919652045341",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919016155324",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919963553699",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918056165010",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919638154192",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919963070713",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919986219238",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919063028360",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919867334423",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917710622445",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919052504555",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918291240913",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919930968144",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919677446441",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918639071146",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917032924288",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919398774400",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917715853533",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918849590942",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919510307038",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918247073861",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919833185449",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918299722296",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917981995831",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919520106946",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918309485500",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917601905037",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918735048024",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919359665596",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919108164819",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919167453669",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918077520384",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918897010639",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918860110033",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918779599956",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917075116126",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918985650250",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919342890843",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919760261660",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917046861613",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918519929079",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918247720201",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917330883378",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919003442442",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919340962284",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939116740",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919959689105",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919075123504",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919632056539",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919538145058",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919582019012",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917010993515",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919075123504",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917661068800",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919311792525",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918600997764",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916266113809",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916364505301",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918287994812",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918700241424",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919328446317",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919133934147",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917406078492",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919491917518",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917620301310",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918801347847",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919678738310",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916303592311",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919160320728",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919770810575",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919584698267",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919137105004",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917006659590",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917058254437",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917709911715",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918849881121",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916302077469",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919392607285",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919328501993",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919824880831",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919059105727",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919489878647",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916393764104",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919110240796",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918778039147",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917415657510",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+14803885740",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918696764952",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919492222389",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918200013015",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939116740",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919662114313",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918073203081",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919499571736",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919392813628",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919989164162",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919791133408",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919912271275",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916359278733",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919112091798",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919486517160",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916366008787",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917240546450",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917358517276",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919619678896",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919710835657",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918866260466",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917358308445",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919959199033",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917032284290",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917904929477",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919766604030",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916303696974",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+15017497437",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919561071348",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918310860218",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917043919491",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919150462513",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918451883328",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919764301191",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919924577207",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917003532408",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918556050183",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919967738372",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919892203101",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919963070713",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919490749951",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919487560056",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917995750811",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919075123504",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919963678575",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917058092015",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918928710210",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916382846150",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917019609863",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918248016916",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918744019939",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939116740",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+918171689839",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917710294966",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917027555108",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918075311670",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919676962957",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919821230099",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919566946919",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917020275518",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918121826611",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919700301665",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918369498297",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917895869523",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919538482449",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919591583843",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919841337480",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939698772",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918897652416",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918824636584",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919381540744",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919167289878",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918309170320",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917259479179",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917003532408",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918187807229",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939116740",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919884042024",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918421330573",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919398743218",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919381959268",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+19175649475",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916300935296",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919623746273",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917973368186",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916309646767",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917305492059",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919324905865",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917892430483",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919490218169",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917030615524",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919327602784",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919619484091",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919940084228",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918919370678",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917456936153",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919895292644",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917207308320",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916381933540",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917085518853",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919620237571",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918142661690",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919948326951",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918569923849",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918329987465",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918160154249",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916351493667",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918780348361",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918008860544",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919442583102",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919446575422",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917899980021",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918292140354",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918601748680",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919619046696",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916383593417",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918939116740",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919824533730",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919515730031",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919326501727",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919675046721",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917573928321",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916303876147",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919188360455",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917981387902",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917405200672",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919443610075",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919075435537",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916284260238",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917013742315",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918801918100",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919994299332",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919344856824",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917729017299",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916302319023",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+12034103539",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919704502110",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919391246795",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919059882086",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919425770810",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918698918538",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918825774414",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919979497617",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+19175649475",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+260978586568",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919840058505",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919496311228",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919205864058",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918762518294",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+12672511233",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919703932799",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919967937003",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+918360937935",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917073110731",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918828245556",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919440085134",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916303338993",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917756021828",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916364828887",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918818036888",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919895601550",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919011902219",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916302098268",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917010734901",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918978232159",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918700668040",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917661011738",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919484966477",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916350120211",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917228044459",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919325999626",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917010993515",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918800987805",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918847626164",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919347161972",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917032851960",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919550598324",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919342083774",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919619726982",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917383923201",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919121085405",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917303090177",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919306645783",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919810898176",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919989719959",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917569813277",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917386954123",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917673998482",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918847499495",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919075123504",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919714017175",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917506521068",
+      "status": "already_in_group",
+      "method": "skipped"
+    },
+    {
+      "number": "+919306123124",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919346960635",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919101017879",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918186810807",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918884009290",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919833420537",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919728517164",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918610279570",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918807901028",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916302033280",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918971452864",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918015832680",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917416515376",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919619183336",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+916284260238",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917209458562",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917987404182",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919910036896",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+919480776909",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+917709929359",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    },
+    {
+      "number": "+918767833243",
+      "status": "invited",
+      "method": "invite_link",
+      "inviteLink": "https://chat.whatsapp.com/F62pSwcfaqU6w816V6FvZM"
+    }
+  ],
+  "alreadyInGroup": [
+    "+917775977750"
+  ]
+}

@@ -12,6 +12,7 @@ yarn-error.log*
 # active_numbers.json
 # inactive_participants.json
 # active_not_in_group.json
+# participants_to_add.json
 # active.csv
 # all.json
 
@@ -19,6 +20,7 @@ yarn-error.log*
 # *_results_*.json
 # message_results_*.json
 # removal_results_*.json
+# add_results_*.json
 # raw_groups_data_*.json
 
 # Environment variables
