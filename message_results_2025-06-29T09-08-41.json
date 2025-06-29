@@ -1,0 +1,145 @@
+{
+  "message": "hi, you got the slot?",
+  "timestamp": "2025-06-29T09:08:41.282Z",
+  "totalNumbers": 34,
+  "successCount": 34,
+  "failCount": 0,
+  "results": [
+    {
+      "number": "+919691580383",
+      "status": "success"
+    },
+    {
+      "number": "+917893906013",
+      "status": "success"
+    },
+    {
+      "number": "+919359665596",
+      "status": "success"
+    },
+    {
+      "number": "+919328446317",
+      "status": "success"
+    },
+    {
+      "number": "+918801347847",
+      "status": "success"
+    },
+    {
+      "number": "+14803885740",
+      "status": "success"
+    },
+    {
+      "number": "+919499571736",
+      "status": "success"
+    },
+    {
+      "number": "+919392813628",
+      "status": "success"
+    },
+    {
+      "number": "+15017497437",
+      "status": "success"
+    },
+    {
+      "number": "+918421330573",
+      "status": "success"
+    },
+    {
+      "number": "+19175649475",
+      "status": "success"
+    },
+    {
+      "number": "+916300935296",
+      "status": "success"
+    },
+    {
+      "number": "+917973368186",
+      "status": "success"
+    },
+    {
+      "number": "+918292140354",
+      "status": "success"
+    },
+    {
+      "number": "+919824533730",
+      "status": "success"
+    },
+    {
+      "number": "+919675046721",
+      "status": "success"
+    },
+    {
+      "number": "+919188360455",
+      "status": "success"
+    },
+    {
+      "number": "+917405200672",
+      "status": "success"
+    },
+    {
+      "number": "+916284260238",
+      "status": "success"
+    },
+    {
+      "number": "+916302319023",
+      "status": "success"
+    },
+    {
+      "number": "+919391246795",
+      "status": "success"
+    },
+    {
+      "number": "+919425770810",
+      "status": "success"
+    },
+    {
+      "number": "+19175649475",
+      "status": "success"
+    },
+    {
+      "number": "+260978586568",
+      "status": "success"
+    },
+    {
+      "number": "+919840058505",
+      "status": "success"
+    },
+    {
+      "number": "+918828245556",
+      "status": "success"
+    },
+    {
+      "number": "+916303338993",
+      "status": "success"
+    },
+    {
+      "number": "+919895601550",
+      "status": "success"
+    },
+    {
+      "number": "+916302098268",
+      "status": "success"
+    },
+    {
+      "number": "+917661011738",
+      "status": "success"
+    },
+    {
+      "number": "+919347161972",
+      "status": "success"
+    },
+    {
+      "number": "+917032851960",
+      "status": "success"
+    },
+    {
+      "number": "+918847499495",
+      "status": "success"
+    },
+    {
+      "number": "+916284260238",
+      "status": "success"
+    }
+  ]
+}
