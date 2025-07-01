@@ -78,7 +78,7 @@ const fs = require('fs');
  */
 
 // Configuration
-const GROUP_ID = "120363401616166216"; // Refused IN Fall 25 intake (Post Jan, 25) - SLOT UPDATES ONLY
+const GROUP_ID = "120363401616166216";
 const PARTICIPANTS_TO_ADD_FILE = 'participants_to_add.json';
 
 // Timing Configuration (milliseconds)
