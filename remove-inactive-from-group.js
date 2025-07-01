@@ -5,7 +5,7 @@ const fs = require('fs');
 /**
  * WhatsApp Group Manager - Remove Inactive Participants
  * 
- * This script removes inactive participants from a specific WhatsApp group and sends them
+ * This script removes inactive participants from a specific WhatsApp group and optionally sends them
  * a notification message explaining why they were removed.
  * 
  * @description Automated tool to clean up WhatsApp groups by removing inactive members
@@ -37,13 +37,14 @@ const fs = require('fs');
  *    - Find the target group by ID
  *    - Check your admin status
  *    - Remove inactive participants one by one
- *    - Send notification messages to removed users
+ *    - Optionally send notification messages to removed users
  *    - Generate a results file with timestamps
  * 
  * @configuration
  * - TARGET_GROUP_ID: The WhatsApp group ID (find using export-all-groups-info.js)
  * - INACTIVE_PARTICIPANTS_FILE: Path to JSON file with phone numbers to remove
  * - REMOVAL_MESSAGE: Customize the notification message sent to removed users
+ * - SEND_NOTIFICATIONS: Boolean to control whether notifications are sent
  * 
  * @output
  * - Console logs with real-time progress and statistics
@@ -80,6 +81,7 @@ const fs = require('fs');
 // Configuration
 const GROUP_ID = "120363415434456792"; // Refused IN Fall 25 intake (Post Jan, 25) - SLOT UPDATES ONLY
 const INACTIVE_PARTICIPANTS_FILE = 'inactive_participants.json';
+const SEND_NOTIFICATIONS = false; // Set to true to enable notification messages
 
 // Timing Configuration (milliseconds)
 const DELAYS = {
@@ -256,7 +258,7 @@ async function removeInactiveParticipants() {
                 // Check if participant is still in the group before attempting removal
                 const currentParticipant = targetGroup.participants.find(p => p.id._serialized === participantId);
                 if (!currentParticipant) {
-                    console.log(`${progress} ✅ SKIPPED: ${phoneNumber} is already not in the group (no notification sent)`);
+                    console.log(`${progress} ✅ SKIPPED: ${phoneNumber} is already not in the group`);
                     results.push({ number: phoneNumber, status: 'already_removed', notificationSent: false });
                     continue;
                 }
@@ -275,18 +277,22 @@ async function removeInactiveParticipants() {
                 
                 console.log(`${progress} ✅ SUCCESS: Verified removal of ${phoneNumber}`);
                 
-                // Small delay before sending notification
-                await new Promise(resolve => setTimeout(resolve, DELAYS.PRE_NOTIFICATION));
-                
-                // Send notification message to removed participant
-                try {
-                    console.log(`${progress} 📨 Sending notification to ${phoneNumber}...`);
-                    await client.sendMessage(participantId, REMOVAL_MESSAGE);
-                    console.log(`${progress} ✅ Notification sent to ${phoneNumber}`);
-                    results.push({ number: phoneNumber, status: 'removed', notificationSent: true });
-                } catch (msgError) {
-                    console.log(`${progress} ⚠️  Removed but notification failed: ${phoneNumber}`);
-                    results.push({ number: phoneNumber, status: 'removed', notificationSent: false, msgError: msgError.message });
+                // Send notification if enabled
+                if (SEND_NOTIFICATIONS) {
+                    // Small delay before sending notification
+                    await new Promise(resolve => setTimeout(resolve, DELAYS.PRE_NOTIFICATION));
+                    
+                    try {
+                        console.log(`${progress} 📨 Sending notification to ${phoneNumber}...`);
+                        await client.sendMessage(participantId, REMOVAL_MESSAGE);
+                        console.log(`${progress} ✅ Notification sent to ${phoneNumber}`);
+                        results.push({ number: phoneNumber, status: 'removed', notificationSent: true });
+                    } catch (msgError) {
+                        console.log(`${progress} ⚠️  Removed but notification failed: ${phoneNumber}`);
+                        results.push({ number: phoneNumber, status: 'removed', notificationSent: false, msgError: msgError.message });
+                    }
+                } else {
+                    results.push({ number: phoneNumber, status: 'removed', notificationSent: false });
                 }
                 
                 successCount++;
@@ -323,10 +329,12 @@ async function removeInactiveParticipants() {
         console.log(`✅ Successfully removed: ${successCount}`);
         console.log(`⏭️  Already not in group: ${alreadyRemovedCount}`);
         console.log(`❌ Failed to remove: ${failCount}`);
-        console.log(`📨 Notifications sent: ${removedWithNotification}`);
-        console.log(`⚠️  Removed but notification failed: ${removedWithoutNotification}`);
+        if (SEND_NOTIFICATIONS) {
+            console.log(`📨 Notifications sent: ${removedWithNotification}`);
+            console.log(`⚠️  Removed but notification failed: ${removedWithoutNotification}`);
+            console.log(`📧 Notification Success Rate: ${successCount > 0 ? ((removedWithNotification / successCount) * 100).toFixed(1) : 0}%`);
+        }
         console.log(`📊 Removal Success Rate: ${participantsToRemove.length > 0 ? ((successCount / participantsToRemove.length) * 100).toFixed(1) : 0}%`);
-        console.log(`📧 Notification Success Rate: ${successCount > 0 ? ((removedWithNotification / successCount) * 100).toFixed(1) : 0}%`);
         
         // Save results
         const timestamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
@@ -339,6 +347,7 @@ async function removeInactiveParticipants() {
             failCount: failCount,
             alreadyRemovedCount: alreadyRemovedCount,
             notificationsSent: removedWithNotification,
+            notificationsEnabled: SEND_NOTIFICATIONS,
             results: results,
             notInGroup: notInGroup
         }, null, 2));
@@ -394,7 +403,11 @@ console.log('🚀 Starting WhatsApp Group Manager...');
 console.log('📦 Initializing browser...');
 console.log(`🎯 Target Group: "${TARGET_GROUP_ID}"`);
 console.log(`📱 Participants to remove: ${inactive_participants.length}`);
-console.log('📨 Will send notification messages to removed participants');
+if (SEND_NOTIFICATIONS) {
+    console.log('📨 Will send notification messages to removed participants');
+} else {
+    console.log('📨 Notification messages disabled');
+}
 
 client.initialize().catch(error => {
     console.error('❌ Failed to initialize client:', error.message);
